@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 My name is Kraivich Sammalertphan (Morfor)
 
-<!--
-**Drevyar/Drevyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👀 Profile
 
-Here are some ideas to get you started:
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME\&color=blue)
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+* 🌍 I'm based in Bangkok, Thailand
+* 📧 Contact me: [Kraivich.sa@ku.th](mailto:Kraivich.sa@ku.th)
+* 💻 I'm interested in Programming
+* 🌱 Currently learning Python, PHP, Java
+
+## 🛠 Skills
+
+![My Skills](https://skillicons.dev/icons?i=python,php,java)
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+## 🔗 Socials
+
+[![Gmail](https://img.shields.io/badge/email-Kraivich.sa@ku.th-red?style=for-the-badge\&logo=gmail)](mailto:Kraivich.sa@ku.th)
