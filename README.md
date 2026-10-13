@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <b>💻 Software Development | 📊 Data Analysis | 🤖 AI & Machine Learning</b>
+  <b>💻 Software Development | 🤖 AI & Machine Learning</b>
 </p>
 
 <p align="center">
@@ -28,7 +28,6 @@ My main areas of interest include:
 
 - 💻 Software Development
 - 📱 Mobile & Web Application Development
-- 📊 Data Analysis & Data Visualization
 - ⚙️ Backend Development & APIs
 - 🤖 Artificial Intelligence & Machine Learning
 - 👁️ Computer Vision & Deep Learning
@@ -75,7 +74,7 @@ Participated in an AI research internship under the supervision of **Dr. Somsawu
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=python,php,javascript,typescript" alt="Programming Languages" />
 </p>
 
 ### 🌐 Frontend & Mobile Development
